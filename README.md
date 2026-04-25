@@ -12,7 +12,7 @@ The goal is to identify trends, compare operational stability, and draw conclusi
 
 ## 2. Dataset Information
 - **Data source**: Nike and Adidas annual reports (2021–2025)
-- **Access date**: April 2026
+- **Access date**: 24th April 2026
 - **Location**: All data files are stored in the `data/` directory
 - **Key metrics**:
   - Revenue (Million USD)
