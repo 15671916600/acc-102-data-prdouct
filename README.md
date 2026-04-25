@@ -84,8 +84,18 @@ All findings are directly derived from the quantitative Python analysis of the 2
 
 
 ---
+## 5. Product & Demo Links
+This section provides direct access to the project repository and demonstration video:
 
-## 5. Repository Structure
+### GitHub Project Repository
+[ACC102 Nike vs Adidas Financial Performance Analysis](https://github.com/)
+
+### Demo Video (Mediasite)
+[Project Walkthrough & Reproducibility Demo](https://mediasite.xjtlu.edu.cn/Mediasite/Play/your-video-id)
+
+---
+
+## 6. Repository Structure
 This section defines the exact file structure of this GitHub repository, so markers can easily navigate all files:
 ```text
 Root/
@@ -99,7 +109,7 @@ Root/
 ```
 ---
 
-## 6. How to Run
+## 7. How to Run
 1. Clone the repository
 2. Install dependencies: `pip install -r requirements.txt`
 3. Open `financial_analysis.ipynb`
@@ -107,12 +117,12 @@ Root/
 
 ---
 
-## 7. Limitations
+## 8. Limitations
 - Only covers 3 core financial metrics
 - Limited to 2021-2025 data
 - No macroeconomic factor analysis
 
 ---
 
-## 8. AI Use Disclosure
+## 9. AI Use Disclosure
 AI tools were used for code assistance and writing. Full details are in the reflection report.
