@@ -1,7 +1,7 @@
 # SportBrands_FinancialAnalysis: Nike vs Adidas Financial Performance Comparison (2021-2025)
 **ACC102 Track 2 - GitHub Data Product | XJTLU IBSS**
 
-> 🎥 Demo Video Link:
+> 🎥 Demo Video Link:https://video.xjtlu.edu.cn/Mediasite/Play/5b6642d46941465292d97f3125a716aa1d
 > 
 > **Repository Topics**: `xjtlu` `acc102` `python` `data-analysis` `financial-analysis` `nike` `adidas`
 
@@ -91,7 +91,7 @@ This section provides direct access to the project repository and demonstration 
 [ACC102 Nike vs Adidas Financial Performance Analysis](https://github.com/)
 
 ### Demo Video (Mediasite)
-[Project Walkthrough & Reproducibility Demo](https://mediasite.xjtlu.edu.cn/Mediasite/Play/your-video-id)
+[Project Walkthrough & Reproducibility Demo(https://video.xjtlu.edu.cn/Mediasite/Play/5b6642d46941465292d97f3125a716aa1d)
 
 ---
 
