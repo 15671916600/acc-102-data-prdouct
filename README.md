@@ -82,9 +82,10 @@ All findings are directly derived from the quantitative Python analysis of the 2
 3.  **Shareholder Return Efficiency (ROE)**: Nike delivered substantially higher and more stable ROE, with a 5-year average of **36.38%**, more than double Adidas' average ROE of **15.20%**. Even at its lowest point in 2025 (20.2%), Nike's ROE remained competitive with Adidas' peak 2021 value (28.1%), reflecting consistently stronger profitability efficiency for Nike's shareholders.
 4.  **Post-Downturn Recovery Trend**: Adidas showed clear signs of operational and financial recovery in 2024-2025, with rebounding revenue growth, positive and rising EPS, and a sharp increase in ROE, narrowing the performance gap with Nike after its 2022-2023 operational downturn.
 
+
 ---
 
-##5. Repository Structure
+## 5. Repository Structure
 This section defines the exact file structure of this GitHub repository, so markers can easily navigate all files:
 ```text
 Root/
