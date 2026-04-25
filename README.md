@@ -95,7 +95,7 @@ Root/
 └── SportBrands_FinancialAnalysis/
     └── data/
         ├── nike_financials.xlsx
-        └── adidas_financials.xlsx
+        └── adidas_financials.xlsx```
 ---
 
 ## 6. How to Run
