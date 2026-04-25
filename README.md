@@ -87,7 +87,7 @@ All findings are directly derived from the quantitative Python analysis of the 2
 
 ## 5. Repository Structure
 This section defines the exact file structure of this GitHub repository, so markers can easily navigate all files:
-```text
+```text```
 Root/
 ├── README.md
 ├── financial_analysis.ipynb
@@ -95,7 +95,8 @@ Root/
 └── SportBrands_FinancialAnalysis/
     └── data/
         ├── nike_financials.xlsx
-        └── adidas_financials.xlsx```
+        └── adidas_financials.xlsx
+
 ---
 
 ## 6. How to Run
