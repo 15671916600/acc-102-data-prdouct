@@ -37,7 +37,6 @@ This project is designed for the intended users defined in the assignment:
 ---
 
 ## 2. Dataset Information
-This section fully discloses the data source and details as required by the ACC102 assignment rules:
 
 | Item | Full Official Details |
 |------|------------------------|
@@ -87,3 +86,13 @@ All findings are directly derived from the quantitative Python analysis of the 2
 
 ## 5. Repository Structure
 This section defines the exact file structure of this GitHub repository, so markers can easily navigate all files:
+<GitHub Repository Root Directory>
+├── README.md                           # Full project documentation, user guide, and methodology disclosure (this file)
+├── financial_analysis.ipynb            # Core runnable Jupyter Notebook with the full Python analysis workflow
+├── requirements.txt                    # List of required Python dependencies for full reproducibility
+└── SportBrands_FinancialAnalysis/      # Main project data directory
+    └── data/                            # Cleaned structured financial dataset
+        ├── nike_financials.xlsx        # 2021-2025 annual financial data for Nike Inc.
+        ├── adidas_financials.xlsx      # 2021-2025 annual financial data for Adidas AG
+        └── .gitkeep                     # Git file to preserve the full directory structure
+```
