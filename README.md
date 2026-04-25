@@ -84,7 +84,7 @@ All findings are directly derived from the quantitative Python analysis of the 2
 
 ---
 
-## ## 5. Repository Structure
+##5. Repository Structure
 This section defines the exact file structure of this GitHub repository, so markers can easily navigate all files:
 ```text
 Root/
@@ -95,22 +95,3 @@ Root/
     └── data/
         ├── nike_financials.xlsx
         └── adidas_financials.xlsx
----
-
-## 6. How to Run
-1. Clone the repository
-2. Install dependencies: `pip install -r requirements.txt`
-3. Open `financial_analysis.ipynb`
-4. Run all cells from top to bottom
-
----
-
-## 7. Limitations
-- Only covers 3 core financial metrics
-- Limited to 2021-2025 data
-- No macroeconomic factor analysis
-
----
-
-## 8. AI Use Disclosure
-AI tools were used for code assistance and writing. Full details are in the reflection report.
